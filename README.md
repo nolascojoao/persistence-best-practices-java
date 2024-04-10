@@ -1,0 +1,1 @@
+This code was developed as part of a Persistence study from the book [Persistence Best Practices for Java Applications](https://www.packtpub.com/product/persistence-best-practices-for-java-applications/9781837631278)
