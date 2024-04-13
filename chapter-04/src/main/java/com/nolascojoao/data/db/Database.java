@@ -36,6 +36,7 @@ public enum Database {
 		if (findById(id).isEmpty()) {
 			throw new IllegalArgumentException("The database cannot be updated");
 		}
+		db.put(id, entry);
 		return entry;
 	}
 
